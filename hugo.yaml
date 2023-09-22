@@ -4,17 +4,17 @@ title: かえるのメモ
 theme: hugo-theme-stack
 
 defaultContentLanguage: ja
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 languages:
     ja:
-        contentDir: content/jp/
+        contentDir: content/
         disabled: false
         languageCode: ja-JP
         languageName: 日本語
         title: かえるのメモ
         weight: 1
     pn:
-        contentDir: content/pn/
+        contentDir: content/
         disabled: false
         languageCode: pn-PN
         languageName: 栄言
