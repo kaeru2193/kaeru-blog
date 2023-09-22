@@ -1,6 +1,5 @@
 baseURL: 'https://blog.kaeru2193.net/'
 languageCode: ja
-title: かえるのメモ
 theme: hugo-theme-stack
 
 defaultContentLanguage: ja
@@ -11,14 +10,14 @@ languages:
         disabled: false
         languageCode: ja-JP
         languageName: 日本語
-        title: かえるのメモ
+        title: かえるのノート
         weight: 1
     pn:
         contentDir: content/
         disabled: false
         languageCode: pn-PN
         languageName: 栄言
-        title: 之機含心記
+        title: 之機含記帳
         weight: 2
 
 module:
@@ -44,7 +43,7 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
+        subtitle: 趣味について色々書くところ。
         avatar:
             enabled: true
             local: true

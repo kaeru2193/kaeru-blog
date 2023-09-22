@@ -12,7 +12,7 @@ draft: false
 menu: 
     main:
         name: アーカイブ
-        weight: 2
+        weight: 3
         params:
             icon: archives
 ---
