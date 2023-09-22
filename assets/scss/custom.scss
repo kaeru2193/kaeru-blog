@@ -1,0 +1,10 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+@font-face {
+    font-family: "PhunWrite";
+    src: url(../fonts/phunwrite-latest.woff);
+}
+
+:lang(pn-PN) {
+    font-family: "PhunWrite";
+    font-weight: initial;
+}

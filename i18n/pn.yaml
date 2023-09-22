@@ -1,0 +1,60 @@
+toggleMenu:
+    other: 門做記
+
+darkMode:
+    other: 暗法
+
+article:
+    back:
+        other: 去紙
+
+    tableOfContents:
+        other: 目次
+
+    relatedContent:
+        other: 架状紙
+
+    lastUpdatedOn:
+        other: 新書門
+
+    readingTime:
+        other: "要向記状時: {{ .Count }}分"
+
+notFound:
+    title:
+        other: 〤〇〤
+    subtitle:
+        other: 其紙是消。
+
+widget:
+    archives:
+        title:
+            other: 去時紙
+
+        more:
+            other: 目多
+
+    tagCloud:
+        title:
+            other: 与事
+
+    categoriesCloud:
+        title:
+            other: 紙籠
+
+search:
+    title:
+        other: 探事
+
+    placeholder:
+        other: 求書、、
+
+    resultTitle:
+        other: "#PAGES_COUNT 紙 （#TIME_SECONDS 秒）"
+
+footer:
+    builtWith:
+        other: 造使{{ .Generator }}
+
+    designedBy:
+        other: 目{{ .Theme }}是造使{{ .DesignedBy }}
